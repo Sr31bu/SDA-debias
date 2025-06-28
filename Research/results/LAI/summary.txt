@@ -1,0 +1,17 @@
+LAI Residual Modeling Results
+Train Years: [np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]
+Test Year: 2024
+Test RMSE: 0.961
+Test R²:   0.676
+
+Top 10 Most Important Features:
+1. Forecast: 0.3143
+2. temp: 0.1171
+3. srad: 0.1029
+4. vapr: 0.0673
+5. prec: 0.0497
+6. Sand: 0.0494
+7. SOC: 0.0494
+8. twi: 0.0489
+9. PH: 0.0465
+10. agb: 0.0447

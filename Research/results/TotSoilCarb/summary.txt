@@ -1,0 +1,17 @@
+TotSoilCarb Residual Modeling Results
+Train Years: [np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]
+Test Year: 2024
+Test RMSE: 2.863
+Test R²:   0.940
+
+Top 10 Most Important Features:
+1. Forecast: 0.2854
+2. SOC: 0.0836
+3. Sand: 0.0763
+4. N: 0.0760
+5. twi: 0.0738
+6. PH: 0.0697
+7. agb: 0.0688
+8. year_since_disturb: 0.0687
+9. srad: 0.0485
+10. temp: 0.0466

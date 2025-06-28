@@ -1,0 +1,7 @@
+LAI Residual Modeling Results (KNN)
+Train Years: [np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]
+Test Year: 2024
+Test RMSE: 4.849
+Test R²:   0.954
+
+Note: KNN does not provide feature importances.

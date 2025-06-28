@@ -1,0 +1,17 @@
+AbvGrndWood Residual Modeling Results
+Train Years: [np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022)]
+Test Year: 2023
+Test RMSE: 8.214
+Test R²:   0.502
+
+Top 10 Most Important Features:
+1. Forecast: 0.2095
+2. srad: 0.1135
+3. temp: 0.1032
+4. vapr: 0.0883
+5. SOC: 0.0645
+6. agb: 0.0584
+7. N: 0.0575
+8. Sand: 0.0566
+9. PH: 0.0564
+10. prec: 0.0557

@@ -1,0 +1,17 @@
+SoilMoistFrac Residual Modeling Results
+Train Years: [np.int64(2015), np.int64(2016), np.int64(2017), np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]
+Test Year: 2024
+Test RMSE: 5.359
+Test R²:   0.944
+
+Top 10 Most Important Features:
+1. Forecast: 0.4352
+2. SOC: 0.0599
+3. twi: 0.0557
+4. agb: 0.0548
+5. Sand: 0.0542
+6. N: 0.0522
+7. year_since_disturb: 0.0497
+8. PH: 0.0495
+9. temp: 0.0467
+10. srad: 0.0455
